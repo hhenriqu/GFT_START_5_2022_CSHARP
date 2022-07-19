@@ -18,6 +18,22 @@ namespace ex02
       {
         case 1:
           Anao anao = new Anao();
+          Console.WriteLine("Pegue seu D20 e role os atributos!");
+          Console.WriteLine("Qual é o valor da Constituiçao?");
+          anao.setConst = int.Parse(Console.ReadLine());
+          Console.WriteLine("Qual é o valor da Força?");
+          anao.setFor = int.Parse(Console.ReadLine());
+          Console.WriteLine("Qual é o valor da Sabedoria?");
+          anao.setSab = int.Parse(Console.ReadLine());
+          Console.WriteLine("Qual é o valor da Destreza?");
+          anao.setDes = int.Parse(Console.ReadLine());
+          Console.WriteLine("Qual é o valor da Carisma?");
+          anao.setCar = int.Parse(Console.ReadLine());
+          Console.WriteLine("Qual é o valor da Inteligencia?");
+          anao.setInt = int.Parse(Console.ReadLine());
+
+          Console.WriteLine("Sua Raça e Atributos São:");
+          Console.WriteLine("Sua Raça e Atributos São:");
           break;
         case 2:
           Elfo elfo = new Elfo();
@@ -28,24 +44,8 @@ namespace ex02
       }
 
 
-      Console.WriteLine("Pegue seu D20 e role os atributos!");
-      Console.WriteLine("Qual é o valor da Constituiçao?");
-      anao = int.Parse(Console.ReadLine());
-      Console.WriteLine("Qual é o valor da Força?");
-      anao.setFor = int.Parse(Console.ReadLine());
-      Console.WriteLine("Qual é o valor da Sabedoria?");
-      anao.setSab = int.Parse(Console.ReadLine());
-      Console.WriteLine("Qual é o valor da Destreza?");
-      anao.setDes = int.Parse(Console.ReadLine());
-      Console.WriteLine("Qual é o valor da Carisma?");
-      anao.setCar = int.Parse(Console.ReadLine());
-      Console.WriteLine("Qual é o valor da Inteligencia?");
-      anao.setInt = int.Parse(Console.ReadLine());
+   }
 
-      Console.WriteLine("Sua Raça e Atributos São:");
-      Console.WriteLine("Sua Raça e Atributos São:");
-    }
-
-    }
   }
+}
 }

@@ -17,7 +17,6 @@ namespace ex04
       CamaroteSuperior ticketcamarotesuperior = new CamaroteSuperior();
       ticketcamarotesuperior.imprimeValor();
       ticketcamarotesuperior.imprimeEndereco();
-
     }
   }
 }
