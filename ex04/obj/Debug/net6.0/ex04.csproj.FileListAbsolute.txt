@@ -1,0 +1,15 @@
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.csproj.AssemblyReference.cache
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.AssemblyInfoInputs.cache
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.AssemblyInfo.cs
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.csproj.CoreCompileInputs.cache
+X:\GFTTesteTecnico\ex04\bin\Debug\net6.0\ex04.exe
+X:\GFTTesteTecnico\ex04\bin\Debug\net6.0\ex04.deps.json
+X:\GFTTesteTecnico\ex04\bin\Debug\net6.0\ex04.runtimeconfig.json
+X:\GFTTesteTecnico\ex04\bin\Debug\net6.0\ex04.dll
+X:\GFTTesteTecnico\ex04\bin\Debug\net6.0\ex04.pdb
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.dll
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\refint\ex04.dll
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.pdb
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ex04.genruntimeconfig.cache
+X:\GFTTesteTecnico\ex04\obj\Debug\net6.0\ref\ex04.dll
